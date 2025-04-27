@@ -1,0 +1,7 @@
+com\portal\Course\services\CourseService.class
+com\portal\Course\entity\Course.class
+com\portal\Course\entity\Module.class
+com\portal\Course\CourseServiceApplication.class
+com\portal\Course\controller\CourseController.class
+com\portal\Course\repository\CourseRepository.class
+com\portal\Course\repository\ModuleRepository.class
